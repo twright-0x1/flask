@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftwright-0x1%2Fflask.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftwright-0x1%2Fflask?ref=badge_shield)
+
 Flask
 =====
 
@@ -78,3 +80,7 @@ Links
 -   Source Code: https://github.com/pallets/flask/
 -   Issue Tracker: https://github.com/pallets/flask/issues/
 -   Chat: https://discord.gg/pallets
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftwright-0x1%2Fflask.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftwright-0x1%2Fflask?ref=badge_large)
